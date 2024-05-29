@@ -1,7 +1,7 @@
 <img src="https://github.com/PragyaMishra29/PragyaMishra29/blob/main/Screenshot%202024-05-29%20102523.png" height=400, width=1000, align="centre"/>
 <h1 align="center">Hello there stranger, I'm Pragya Mishra :)</h1>
 <h3 align="center">A passionate Web developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/PragyaMishra29/PragyaMishra29/blob/main/ppg.gif">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.hollywoodreporter.com%2Ftv%2Ftv-news%2Fpowerpuff-girls-live-action-show-in-the-works-at-the-cw-4049859%2F&psig=AOvVaw0ociY44gJr1vFEiAFybE8D&ust=1717048893308000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKi-ptyXsoYDFQAAAAAdAAAAABAE">
 
 - 🔭 I will start working on projects related to MERN Full Stack 
 - 🌱 I’m currently learning Web Development and DSA
