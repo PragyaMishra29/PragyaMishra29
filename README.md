@@ -1,4 +1,4 @@
-<img src="https://github.com/PragyaMishra29/PragyaMishra29/blob/main/Screenshot%202024-05-29%20102523.png" height=500, width=1000/>
+<img src="https://github.com/PragyaMishra29/PragyaMishra29/blob/main/Screenshot%202024-05-29%20102523.png" height=400, width=1000/>
 <h1 align="center">Hello there stranger, I'm Pragya Mishra :)</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.hollywoodreporter.com/wp-content/uploads/2016/06/powerpuffgirls.jpg">
